@@ -14,6 +14,8 @@ Here's a list of things I like:
   * The Sopranos  
      This is my favourite show ever!
 
+
+
 Here is a link to [Youtube](www.youtube.com)
 
 Below should be a cool image of Vegito. 
@@ -24,3 +26,7 @@ Inspirational quote:
 > Michael Scott
 
 
+| This is a table... | Column 2 | Column 3 |
+|:----|:---:|:---:|
+| Item 1 | Item 2 | Item 3 |
+| Item 4 | item 5 | Item 6 |
