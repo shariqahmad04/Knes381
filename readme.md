@@ -5,6 +5,16 @@
 + Bullet list
 + second item bullet list
 
+Here's a list of things I like:
+* videogames
+  * Grand Theft Auto
+  * Tekken
+* badminton
+* TV shows
+  * The Sopranos
+    
+ This is my favourite show ever!
+
 Here is a link to [Youtube](www.youtube.com)
 
 Below should be an image of a black cat. 
