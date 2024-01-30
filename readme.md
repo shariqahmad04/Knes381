@@ -7,13 +7,17 @@
 
 Here's a list of things I like:
 * videogames
-  * Grand Theft Auto
-  * Tekken
+  * Grand Theft Auto  
+
+    --> GTA 4 the goat  
+
+  * Tekken  
+
 * badminton
 * TV shows
-  * The Sopranos  
-     This is my favourite show ever!
+  * The Sopranos   
 
+    --> This is my favourite show ever!
 
 
 Here is a link to [Youtube](www.youtube.com)
@@ -30,3 +34,4 @@ Inspirational quote:
 |:----|:---:|:---:|
 | Item 1 | Item 2 | Item 3 |
 | Item 4 | item 5 | Item 6 |
+
