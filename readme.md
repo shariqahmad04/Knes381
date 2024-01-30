@@ -12,6 +12,6 @@ Below should be an image of a black cat.
 
 Inspirational quote:
 > "You miss 100% of the shots you don't take. - Wayne Gretsky
-> - Michael Scott
+> Michael Scott
 
 
