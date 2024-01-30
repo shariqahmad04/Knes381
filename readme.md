@@ -12,8 +12,7 @@ Here's a list of things I like:
 * badminton
 * TV shows
   * The Sopranos
-    
-    This is my favourite show ever!
+     This is my favourite show ever!
 
 Here is a link to [Youtube](www.youtube.com)
 
