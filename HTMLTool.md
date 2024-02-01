@@ -1,5 +1,7 @@
 <H1 style="text-align: center;"> This is the centered title! </H1>
 
+<H1> <p><center>This is the centered title</center></p>
+
 ---
 
 VO2 max is the 
