@@ -7,5 +7,7 @@ VO2 max is the
 <a href=
 
 <img src="https://i.ytimg.com/vi/hh6LN8uwytE/maxresdefault.jpg"> 
-<span style="colour:blue">This is the text I'm trying to get placed NEXT to the image.</span>
+<span style="color:blue;font-weight:bold">This is the text I'm trying to get placed NEXT to the image.</span>
 
+
+<p> The V&#775O2 max is the maximum rate of oxygen consumption attainable during physical exertion. 
