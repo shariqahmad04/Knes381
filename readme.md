@@ -1,24 +1,14 @@
-# This is heading 1
-## This is heading 2
-1) first list
-2) second list
-+ Bullet list
-+ second item bullet list
+# Welcome to my readme file!
+## My name is Shariq and I'm a second year Bsc in Kinesiology major.
 
 Here's a list of things I like:
 * videogames
-  * Grand Theft Auto  
-
-    --> I like GTA 4 the best
-
+  * Grand Theft Auto series
   * Tekken  
 
 * badminton
 * TV shows
   * The Sopranos   
-
-    --> This is my favourite show
-
 
 Here is a link to [Google](www.google.com)
 
