@@ -1,6 +1,6 @@
 <H1 style="text-align: center;"> This is the centered title! </H1>
 
-<H1> <p alignment center>This is the centered title... attempt 2 </p> </H1>
+<H1> <p align="center">This is the centered title... attempt 2 </H1>
 
 ---
 
