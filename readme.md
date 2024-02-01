@@ -1,7 +1,8 @@
 # Welcome to my readme file!
 ## My name is Shariq and I'm a second year Bsc in Kinesiology major.
 
-Here's a list of things I like:
+<p align="center"> Here's a list of things I like:
+
 * videogames
   * Grand Theft Auto series
   * Tekken  
@@ -41,7 +42,7 @@ Below should be some funky tables showing the world population.
 
 <h1> I will display a O&#775. This is a unique code that I typed right after the O to get the dot on top. </h1>
 
-<p> This is being written in HTML as a paragraph. 
+<p> This is being written in HTML as a paragraph. </p>
 
-markdown
+
 
