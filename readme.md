@@ -44,5 +44,6 @@ Below should be some funky tables showing the world population.
 
 <p> This is being written in HTML as a paragraph. </p>
 
+<span style="color:blue;font-weight:bold">This is in the colour blue.</span>
 
 
