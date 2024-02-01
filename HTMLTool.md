@@ -17,4 +17,5 @@
 
 <p> The V&#x30AO2 max is the maximum rate of oxygen consumption attainable during physical exertion. 
 
-$${\color{red}RED!}$$	
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `This should be in the colour red.`
+
