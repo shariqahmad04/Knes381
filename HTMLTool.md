@@ -8,7 +8,7 @@ VO2 max is the
 
 <a href="readme.md">This is my readme file. Check it out! </a>
 
-<img align="right" src="https://i.ytimg.com/vi/hh6LN8uwytE/maxresdefault.jpg" style="width:500px;height:600px;" align="right">
+<img align="right" src="https://i.ytimg.com/vi/hh6LN8uwytE/maxresdefault.jpg" align="right">
 
 <span style="color:blue;font-weight:bold">
 This is the text I'm trying to get placed NEXT to the image. </span>
