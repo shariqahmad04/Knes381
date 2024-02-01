@@ -1,6 +1,6 @@
 <H1 style="text-align: center;"> This is the centered title! </H1>
 
-<H1> <p><center>This is the centered title... attempt 2</center></p> </H1>
+<H1> <p alignment center>This is the centered title... attempt 2 </p> </H1>
 
 ---
 
@@ -14,3 +14,5 @@ VO2 max is the
 
 <p> The V&#775O2 max is the maximum rate of oxygen consumption attainable during physical exertion. 
 test
+
+<p align="center"> Here's a list of things I like:
