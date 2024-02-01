@@ -17,4 +17,4 @@
 
 <p> The V&#x30AO2 max is the maximum rate of oxygen consumption attainable during physical exertion. 
 
-<img align="right" src="/Images/Vegito.jpeg" >
+<img align="right" style="width:600px;height:300px;" src="/Images/Vegito.jpeg" >
