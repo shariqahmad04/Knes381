@@ -6,7 +6,7 @@
 
 <a href="readme.md">This is my readme file. Check it out! </a>
 
-<img align="right" src="https://i.ytimg.com/vi/hh6LN8uwytE/maxresdefault.jpg" style="width:300px;height:300px;">
+<img align="right" src="https://i.ytimg.com/vi/hh6LN8uwytE/maxresdefault.jpg" style="width:500px;height:300px;">
 
 <br>
 <br> <br> <br> <br> <br>
