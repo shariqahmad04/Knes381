@@ -12,7 +12,6 @@ VO2 max is the
 <span style="color:blue;font-weight:bold">This is the text I'm trying to get placed NEXT to the image.</span>
 
 
-<p> The V&#775O2 max is the maximum rate of oxygen consumption attainable during physical exertion. 
+<p> The V&#x307 max is the maximum rate of oxygen consumption attainable during physical exertion. 
 test
 
-<p align="center"> Here's a list of things I like:
