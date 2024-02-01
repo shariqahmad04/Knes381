@@ -38,3 +38,7 @@ Below should be some funky tables showing the world population.
 | 5 | Brazil | 204,259,812 |
 | 6 | ![Pakistan Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png) | 199,085,847 |
 
+
+<h1> I will display a O&#775. This is a unique code that I typed right after the O to get the dot on top. </h1>
+
+<p> This is being written in HTML as a paragraph. 
