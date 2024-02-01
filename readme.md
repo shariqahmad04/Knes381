@@ -22,7 +22,7 @@ Here's a list of things I like:
 
 Here is a link to [Google](www.google.com)
 
-Below should be a cool image of Vegito. 
+Below should be a cool image of Vegito. :sunglasses: :sunglasses:
 ![Vegito](https://i.ytimg.com/vi/hh6LN8uwytE/maxresdefault.jpg)
 
 Inspirational quote:
@@ -47,3 +47,4 @@ Below should be some funky tables showing the world population.
 | 4 | Indonesia | 255,993,674|
 | 5 | Brazil | 204,259,812 |
 | 6 | ![Pakistan Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png) | 199,085,847 |
+
