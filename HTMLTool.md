@@ -4,7 +4,6 @@
 
 ---
 
-VO2 max is the 
 
 <a href="readme.md">This is my readme file. Check it out! </a>
 
