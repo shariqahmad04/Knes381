@@ -6,7 +6,7 @@
 
 <a href="readme.md">This is my readme file. Check it out! </a>
 
-<img align="right" src="https://i.ytimg.com/vi/hh6LN8uwytE/maxresdefault.jpg" style="width:600px;height:300px;">
+<img align="right" style="width:600px;height:300px;" src="/Images/Vegito.jpeg" >
 
 <br>
 <br> <br> <br> <br> <br>
@@ -17,4 +17,3 @@
 
 <p> The V&#x30AO2 max is the maximum rate of oxygen consumption attainable during physical exertion. 
 
-<img align="right" style="width:600px;height:300px;" src="/Images/Vegito.jpeg" >
