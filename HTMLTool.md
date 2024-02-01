@@ -11,9 +11,9 @@
 <br>
 <br> <br> <br> <br> <br>
 
-This is the text I'm trying to get placed NEXT to the image. 
+<font color="red" > This is the text I'm trying to get placed NEXT to the image. 
 <br> <br> <br> <br> <br> <br> <br>
-
+</font>
 
 <p> The V&#x30AO2 max is the maximum rate of oxygen consumption attainable during physical exertion. 
 
