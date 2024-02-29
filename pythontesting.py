@@ -95,4 +95,4 @@ delay = 300
 for i in range(60):
     print("\n")
     sleep(delay/1000)
-    delay = delay * 0.9
+    delay = delay * 0.91
