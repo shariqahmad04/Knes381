@@ -43,7 +43,7 @@ for l in range (1, n_lines, +1):
     os.system("clear")
     frame = "\n" * (n_lines - 14 - l) + rocket + "\n" * l
     print(frame)
-    sleep(1 / l)
+    sleep(0.6 / l)
 
 
 
